@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=hayden365&show_icons=true&theme=radical)
+![Hayden365's GitHub stats](https://github-readme-stats.vercel.app/api?username=hayden365&show_icons=true&theme=radical)
 
 <!--
 **hayden365/hayden365** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
